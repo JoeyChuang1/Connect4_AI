@@ -1,6 +1,9 @@
 # Connect4_AI
-
-This project explores the application of reinforcement learning algorithms—specifically Deep Q-Networks (DQN) and Actor-Critic methods—in multi-agent, sparse reward environments using the game Connect Four as a testbed. Implemented from scratch in Python with PyTorch, NumPy, and Matplotlib, the project investigates the performance, training efficiency, and strategic development of these algorithms.
+Engineered Actor-Critic and Rainbow DQN reinforcement learning agents for the Connect4 gym environment,
+achieving a 100% win rate against all online bots and perfecting the model’s decision-making. Conducted
+performance evaluations from both puzzle and empty states, demonstrating the impact of pre-populated initial
+conditions in accelerating RL training efficiency.
+This project explores the application of reinforcement learning algorithms—specifically Deep Q-Networks (DQN) and Actor-Critic methods—in multi-agent, sparse reward environments using the game Connect Four as a testbed. Implemented from scratch in Python with PyTorch, NumPy, and Matplotlib, the project investigates the performance, training efficiency, and strategic development of these algorithms. 
 
 ## Table of Contents
 
